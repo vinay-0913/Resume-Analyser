@@ -4,8 +4,10 @@ This is a **Resume Analyser** that analyzes resumes against job descriptions usi
 
 ![Website Screenshot](./frontend/public/Screenshot1.png)
 
+![Website Screenshot](./frontend/public/Screenshot3.png)
+
 ![Website Screenshot](./frontend/public/Screenshot2.png)
 
-![Website Screenshot](./frontend/public/Screenshot3.png)
+
 
 
