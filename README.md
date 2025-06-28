@@ -8,19 +8,23 @@ This is a **Resume Analyser** that analyzes resumes against job descriptions usi
 
 ![Website Screenshot](./frontend/public/Screenshot2.png)
 
-## Tech Stack
+## 🔧 Tech Stack
+
 - **Frontend**: React.js with Tailwind CSS for styling, Lucide React for icons, and Context API for state management.
 
 - **Backend**: Flask (Python) for resume analysis APIs using NLP techniques.
 
 - **Resume Analysis Engine**:
--  **Text Extraction**: fitz (PyMuPDF) for PDF files, docx for DOCX parsing.
--  **NLP & Similarity**:
- *  **nltk** : tokenization, lemmatization, and stopword removal.
- *  **keybert** : keyword extraction.
- *  **sentence-transformers (Sentence-BERT)** : semantic similarity.
- *  **rapidfuzz** : fast string matching.
- *  **spacy** : Named Entity Recognition (NER).
+
+  - **Text Extraction**: `fitz` (PyMuPDF) for PDF files, `docx` for DOCX parsing.
+
+  - **NLP & Similarity**:
+    - `nltk`: tokenization, lemmatization, and stopword removal.
+    - `keybert`: keyword extraction.
+    - `sentence-transformers` (Sentence-BERT): semantic similarity.
+    - `rapidfuzz`: fast string matching.
+    - `spacy`: Named Entity Recognition (NER).
+
 
 
 
