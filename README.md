@@ -34,5 +34,36 @@ This is a **Resume Analyser** that analyzes resumes against job descriptions usi
   - Resume match score with detailed breakdown.
   - Personalized improvement suggestions.
 
+## 🖥️ Setup Instructions
 
-
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/vinay-0913/News-Aggregator-with-Recommendation-System.git
+    ```
+2. **Install dependencies**:
+   - Navigate to the frontend directory and run:
+    ```bash
+    npm install
+    ```
+    - Navigate to the backend directory and run:
+    ```bash
+    pip install -r requirements.txt
+    ```
+3. **Create Python Virual Environment**:    
+   - In root directory run :
+    ```bash
+    python -m venv env
+    ```
+    - Then activate it : 
+    ```bash
+    .venv\Scripts\activate
+    ```
+ 4. **Start the development server**:
+   - Run the backend server:
+    ```bash
+    python run.py
+    ```
+    - Run the frontend server:
+    ```bash
+    npm start
+    ```   
