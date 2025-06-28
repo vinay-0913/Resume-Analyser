@@ -38,7 +38,7 @@ This is a **Resume Analyser** that analyzes resumes against job descriptions usi
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/vinay-0913/News-Aggregator-with-Recommendation-System.git
+    git clone https://github.com/vinay-0913/Resume-Analyser.git
     ```
 2. **Install dependencies**:
    - Navigate to the frontend directory and run:
