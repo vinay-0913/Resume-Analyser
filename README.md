@@ -58,12 +58,12 @@ This is a **Resume Analyser** that analyzes resumes against job descriptions usi
     ```bash
     .venv\Scripts\activate
     ```
- 4. **Start the development server**:
+4. **Start the development server**:
    - Run the backend server:
     ```bash
     python run.py
     ```
-    - Run the frontend server:
+   - Run the frontend server:
     ```bash
     npm start
     ```   
