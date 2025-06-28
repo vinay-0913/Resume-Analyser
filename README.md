@@ -14,9 +14,9 @@ This is a **Resume Analyser** that analyzes resumes against job descriptions usi
 - **Backend**: Flask (Python) for resume analysis APIs using NLP techniques.
 
 - **Resume Analysis Engine**:
-  *Text Extraction*: fitz (PyMuPDF) for PDF files, docx for DOCX parsing.
-  *NLP & Similarity*:
-  - **nltk** for tokenization, lemmatization, and stopword removal.
+  **Text Extraction**: fitz (PyMuPDF) for PDF files, docx for DOCX parsing.
+  **NLP & Similarity**:
+  **nltk** for tokenization, lemmatization, and stopword removal.
   **keybert** for keyword extraction.
   **sentence-transformers (Sentence-BERT)** for semantic similarity.
   **rapidfuzz** for fast string matching.
