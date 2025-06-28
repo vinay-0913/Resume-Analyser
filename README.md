@@ -25,7 +25,14 @@ This is a **Resume Analyser** that analyzes resumes against job descriptions usi
     - `rapidfuzz`: fast string matching.
     - `spacy`: Named Entity Recognition (NER).
 
+## Features
 
+  - Match resumes with job descriptions using NLP.
+  - Extract hard skills, soft skills, tools, and job titles.
+  - Semantic similarity scoring with Sentence-BERT.
+  - ATS compatibility checks (tables, columns, sections).
+  - Resume match score with detailed breakdown.
+  - Personalized improvement suggestions.
 
 
 
